@@ -3,10 +3,10 @@
 TKH Final Project
 Leesel Fraser & Zipporah Najar
 
-Chosen Topic: News App
-Chosen API: NewsAPI
-Name of Application: Newselle
-Github Repo [ Git Tzar: Leesel ]
+Chosen Topic: News App<br>
+Chosen API: NewsAPI<br>
+Name of Application: Newselle<br>
+Github Repo [ Git Tzar: Leesel ]<br>
 Figma Wireframe
 Canva Presentation
 
