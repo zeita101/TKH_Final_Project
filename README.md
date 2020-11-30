@@ -1,6 +1,6 @@
 # TKH_Final_Project
 
-<h1>TKH Final Project<h1><br>
+<h1>TKH Final Project</h1><br>
 Leesel Fraser & Zipporah Najar
 
 Chosen Topic: News App<br>
