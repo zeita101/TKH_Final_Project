@@ -9,8 +9,8 @@
 <b>Chosen API:</b> NewsAPI
 <b>Name of Application:</b> Newselle
 <b>Github Repo</b> [ Git Tzar: Leesel ]
-<b><a href="google.com">Figma Wireframe</a></b>
-<b>Canva Presentation</b>
+<b><a href="https://www.figma.com/file/Cf37xsXwXkxhSoi3lQhNKb/TKH_Final_Project?node-id=0%3A1">Figma Wireframe</a></b>
+<b><a href="https://www.canva.com/design/DAEO7fj9-4U/share/preview?token=ANdVOElxQ965b5p-p9kXgA&role=EDITOR&utm_content=DAEO7fj9-4U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Canva Presentation</a></b>
 </p>
 
 
