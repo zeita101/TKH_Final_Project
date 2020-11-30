@@ -1,7 +1,7 @@
 # TKH_Final_Project
 
 <h1>TKH Final Project</h1><br>
-<p style="color:grey;">Leesel Fraser & Zipporah Najar<p>
+<p style="color:"red";">Leesel Fraser & Zipporah Najar<p>
 
 Chosen Topic: News App<br>
 Chosen API: NewsAPI<br>
