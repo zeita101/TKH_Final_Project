@@ -5,12 +5,12 @@
 
 <h4>General Information </h4>
 <p>
-<b>Chosen Topic:</b> Create a News App
-<b>Chosen API:</b> NewsAPI
-<b>Name of Application:</b> Newselle
-<b>Github Repo</b> [ Git Tzar: Leesel ]
-<b>Wireframe: <a href="https://www.figma.com/file/Cf37xsXwXkxhSoi3lQhNKb/TKH_Final_Project?node-id=0%3A1">Figma Wireframe</a></b>
-<b><a href="https://www.canva.com/design/DAEO7fj9-4U/share/preview?token=ANdVOElxQ965b5p-p9kXgA&role=EDITOR&utm_content=DAEO7fj9-4U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Canva Presentation</a></b>
+<b>Chosen Topic:</b> Create a News App <br>
+<b>Chosen API:</b> NewsAPI <br>
+<b>Name of Application:</b> Newselle <br>
+<b>Github Repo</b> [ Git Tzar: Leesel ] <br>
+<b>Wireframe: <a href="https://www.figma.com/file/Cf37xsXwXkxhSoi3lQhNKb/TKH_Final_Project?node-id=0%3A1">Figma Wireframe</a></b> <br>
+<b>Presentation:<a href="https://www.canva.com/design/DAEO7fj9-4U/share/preview?token=ANdVOElxQ965b5p-p9kXgA&role=EDITOR&utm_content=DAEO7fj9-4U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Canva Presentation</a></b> <br>
 </p>
 
 
