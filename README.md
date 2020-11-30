@@ -1,7 +1,7 @@
 # Newselle
 <h3>Description</h3>
 
-Newselle is a personalized news application that will allow users to view the latest headlines from all cetegories (sports, entertainment, health, tech, finance etc), anywhere in the world and in any language. Newselle uses the NewsAPI to get headlines from all news sources so that users are not limited to one publication. Newselle will als display the up to date current and future weather for specific locations.
+Newselle is a personalized news application that will allow users to view the latest headlines from all cetegories (sports, entertainment, health, tech, finance etc), anywhere in the world and in any language. Newselle uses the NewsAPI to get headlines from all news sources so that users are not limited to one publication. Newselle will als display the up to date current and future weather for specific locations. Will also display crypto and stock charts and joke of the day.
 
 <h3>General Information </h3>
 
