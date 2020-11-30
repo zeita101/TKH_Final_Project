@@ -4,9 +4,9 @@
 <p style="color:red;">Leesel Fraser & Zipporah Najar<p>
   
   ```diff
-- text in red
-+ text in green
-! text in orange
++ Postman
++ Figma
+
 # text in gray
 @@ text in purple (and bold)@@
 ```
