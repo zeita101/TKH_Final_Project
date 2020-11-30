@@ -2,6 +2,14 @@
 
 <h1>TKH Final Project</h1><br>
 <p style="color:red;">Leesel Fraser & Zipporah Najar<p>
+  
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 Chosen Topic: News App<br>
 Chosen API: NewsAPI<br>
