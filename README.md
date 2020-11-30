@@ -1,6 +1,4 @@
-# TKH_Final_Project
-
-<h1>Newselle</h1>
+# Newselle
 <h3>General Information </h3>
 <p>
 <b>Chosen Topic:</b> Create a News App <br>
