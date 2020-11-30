@@ -1,6 +1,6 @@
 # TKH_Final_Project
 
-# Newselle <br>
+<h1>Newselle</h1>
 <h3> Leesel Fraser & Zipporah Najar </h3>
   
 <p>
