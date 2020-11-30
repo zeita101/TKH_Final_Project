@@ -1,7 +1,7 @@
 # TKH_Final_Project
 
 # Newselle <br>
-## Leesel Fraser & Zipporah Najar
+<h3> Leesel Fraser & Zipporah Najar </h3>
   
 <p>
 <b>Chosen Topic:</b> Create a News App
