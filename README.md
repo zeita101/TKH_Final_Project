@@ -12,13 +12,14 @@
 ```
 
 ```diff
-@@ Chosen Topic: Create a News App@@ # text in gray
-@@ Chosen API: NewsAPI@@
-@@ Name of Application: Newselle<@@
-@@ Github Repo [ Git Tzar: Leesel ]@@
-@@ Figma Wireframe@@
-@@ Canva Presentation@@
-```
+<p>
+<b>Chosen Topic:</b> Create a News App
+<b>Chosen API:</b> NewsAPI
+<b>Name of Application:</b> Newselle
+<b>Github Repo</b> [ Git Tzar: Leesel ]
+<b><a href="google.com">Figma Wireframe</a></b>
+<b>Canva Presentation</b>
+</p>
 
 
 
