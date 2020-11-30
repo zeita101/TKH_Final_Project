@@ -3,15 +3,6 @@
 <h1>TKH Final Project</h1><br>
 <p style="color:red;">Leesel Fraser & Zipporah Najar<p>
   
-  ```diff
-+ Postman
-+ Figma
-
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-```diff
 <p>
 <b>Chosen Topic:</b> Create a News App
 <b>Chosen API:</b> NewsAPI
