@@ -1,9 +1,7 @@
 # TKH_Final_Project
 
 <h1>Newselle</h1>
-<h3>Leesel Fraser & Zipporah Najar</h3>
-
-<h4>General Information </h4>
+<h3>General Information </h3>
 <p>
 <b>Chosen Topic:</b> Create a News App <br>
 <b>Chosen API:</b> NewsAPI <br>
@@ -32,3 +30,5 @@ https://newsapi.org/docs/endpoints/top-headlines
 
 This endpoint suits article discovery and analysis, but can be used to retrieve articles for display, too.”
 https://newsapi.org/docs/endpoints/everything
+
+<h3>Leesel Fraser & Zipporah Najar</h3>
