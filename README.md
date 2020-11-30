@@ -2,7 +2,8 @@
 
 <h1>Newselle</h1>
 <h3>Leesel Fraser & Zipporah Najar</h3>
-  
+
+<h4>General Information </h4>
 <p>
 <b>Chosen Topic:</b> Create a News App
 <b>Chosen API:</b> NewsAPI
