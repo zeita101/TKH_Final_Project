@@ -9,15 +9,15 @@
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
+```
 
 ```diff
-@@ Chosen Topic: Create a News App@@
+@@ Chosen Topic: Create a News App@@ # text in gray
 @@ Chosen API: NewsAPI@@
 @@ Name of Application: Newselle<@@
 @@ Github Repo [ Git Tzar: Leesel ]@@
 @@ Figma Wireframe@@
 @@ Canva Presentation@@
-```
 ```
 
 
