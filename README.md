@@ -1,5 +1,13 @@
 # Newselle
 <h3>General Information </h3>
+
+Credits: 
+Back-End | Front-End
+------------ | -------------
+Leesel Fraser| Zipporah Najar
+Links | Drinks
+
+
 <p>
 <b>Chosen Topic:</b> Create a News App <br>
 <b>Chosen API:</b> NewsAPI <br>
