@@ -1,7 +1,7 @@
 # Newselle
 <h3>Description</h3>
 
-Newselle will allow users to view the weather for specific locations, view the top news headlines, and view all recent news articles with a variety of categories ranging from entertainment and health to sports and technology from various different news sources all in one app as opposed to having different apps for different news companies. 
+Newselle is a personalized news application that will allow users to view the latest headlines from all cetegories (sports, entertainment, health, tech, finance etc), anywhere in the world and in any language. Newselle uses the NewsAPI to get headlines from all news sources so that users are not limited to one publication. Newselle will als display the up to date current and future weather for specific locations.
 
 <h3>General Information </h3>
 
