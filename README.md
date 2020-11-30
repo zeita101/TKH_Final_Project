@@ -10,7 +10,8 @@
 </p>
 
 
-
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 Description: Newselle will allow users to view the weather for specific locations, view the top news headlines, and view all recent news articles with a variety of categories ranging from entertainment and health to sports and technology from various different news sources all in one app as opposed to having different apps for different news companies. 
 
